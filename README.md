@@ -1,2 +1,2 @@
 # README #
-A Commit MEssage
+A Commit Message
